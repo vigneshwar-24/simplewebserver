@@ -64,7 +64,7 @@ httpd.serve_forever()
 ![output](./static/img/page.png)'
 
 ## CODE VALIDATION REPORT:
-![output](./static/img/validation.png)
+![output](./static/img/valid.png)'
 
 ## RESULT:
 Thus a website is designed for the simple webserver and is hosted in the 
